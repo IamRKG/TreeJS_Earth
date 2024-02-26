@@ -1,0 +1,15 @@
+{
+  "name": "threejs_basic",
+  "version": "1.0.0",
+  "description": "\"Three Basic\"",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "nice-color-palettes": "^3.0.0",
+    "three": "^0.161.0"
+  },
+  "devDependencies": {
+    "vite": "^5.1.3"
+  }
+}
