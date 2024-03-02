@@ -51,7 +51,7 @@ const pointLight = new THREE.PointLight('white',10)
 pointLight.position.set(1,2,2)
 moonGroup.add(pointLight)
 
-scene.add(new THREE.PointLightHelper(pointLight,0.1))
+//scene.add(new THREE.PointLightHelper(pointLight,0.1))
 
 //scene.add(new THREE.GridHelper(5,50))
 //controls.update();
